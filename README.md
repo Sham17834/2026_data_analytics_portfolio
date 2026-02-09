@@ -23,7 +23,7 @@ I specialize in identifying operational bottlenecks and uncovering high-value ma
 ---
 
 ### 📌 Foodpanda Operations & Sales Analysis  
-*Tools: SQL, Python (Pandas), Power BI*
+*Tools: SQL, Power BI*
 
 **Project Goal:**  
 Analyze 6,000 transaction records to identify causes of delivery friction and improve customer retention across major cities in Pakistan.
