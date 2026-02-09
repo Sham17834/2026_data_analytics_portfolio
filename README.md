@@ -18,7 +18,7 @@ I am a results-oriented data enthusiast with a knack for turning complex dataset
 
 ## 📊 Featured Projects
 
-### 1. [Foodpanda Operations &amp; Sales Analysis](https://www.google.com/search?q=./Foodpanda%2520Food%2520Analytics)
+### 1. Foodpanda Operations & Sales Analysis
 
 **Project Goal:** To evaluate 6,000 transaction records to pinpoint the causes of delivery friction and optimize user retention strategies across major cities in Pakistan.
 
@@ -33,7 +33,7 @@ I am a results-oriented data enthusiast with a knack for turning complex dataset
 
 ---
 
-### 2. [Malaysia E-commerce Sales Analytics](https://www.google.com/search?q=./E-commerce%2520Sales%2520Analytics)
+### 2. Malaysia E-commerce Sales Analytics
 
 **Project Goal:** An end-to-end business intelligence solution analyzing 10,000+ sales records to decode consumer behavior across Malaysia's leading e-commerce platforms (Shopee, Lazada, and TikTok Shop) for 2024.
 
