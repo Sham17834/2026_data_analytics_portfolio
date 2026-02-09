@@ -2,7 +2,7 @@
 
 ### Aspiring Data Analyst | SQL, Excel, Python & Power BI/Tableau Specialist  
 
-I am a results-oriented data enthusiast with a passion for transforming complex datasets into clear, actionable business insights. My portfolio demonstrates hands-on experience across the full data lifecycle — from **raw data extraction and SQL cleaning** to **advanced visualization and stakeholder-ready reporting**.
+I am a results-oriented data enthusiast with a passion for transforming complex datasets into clear, actionable business insights. My portfolio demonstrates hands-on experience across the full data lifecycle from **raw data extraction and SQL cleaning** to **advanced visualization and stakeholder-ready reporting**.
 
 I specialize in identifying operational bottlenecks and uncovering high-value market trends in the **Food Logistics** and **E-commerce** sectors.
 
