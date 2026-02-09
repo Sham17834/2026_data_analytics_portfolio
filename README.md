@@ -23,7 +23,7 @@ I specialize in identifying operational bottlenecks and uncovering high-value ma
 ---
 
 ### 📌 Foodpanda Operations & Sales Analysis  
-*Tools: SQL, Power BI*
+*Tools: Excel, Tableau*
 
 **Project Goal:**  
 Analyze 6,000 transaction records to identify causes of delivery friction and improve customer retention across major cities in Pakistan.
@@ -32,12 +32,12 @@ Analyze 6,000 transaction records to identify causes of delivery friction and im
 
 **Key Deliverables & Insights:**
 
-- Cleaned and transformed raw order data using SQL and Python to ensure accuracy and consistency.  
+- Cleaned and transformed raw order data using Excel to ensure accuracy and consistency.  
 - Identified a major operational issue where **66% of orders were delayed or cancelled**, strongly correlated with a low **average rating of 3.00**.  
 - Performed customer segmentation and found **Teenagers as the highest-spending segment (RM 1.65M)**.  
 - Discovered **Multan as the top-performing city (RM 1.0M+ revenue)**, outperforming capital cities.  
 - Monitored overall performance with **Total Revenue of RM 4.8M** and **Average Order Value (AOV) of RM 800**.  
-- Built an interactive Power BI dashboard with KPIs, filters, and city-level drilldowns.
+- Built an interactive Tableau dashboard with KPIs, filters, and city-level drilldowns.
 
 ---
 
