@@ -23,7 +23,7 @@ I am a data-driven problem solver passionate about transforming raw datasets int
 * **Impact:** Recommended logistics restructuring in Multan (highest revenue city) and identified teenagers as the primary spending demographic ($1.65M).
 * **Tools:** Python, Pandas, Matplotlib.
 
-### 2. [E](https://www.google.com/search?q=link-to-your-folder)-commerce Sales Analytics
+### 2. E-commerce Sales Analytics
 
 **Goal:** End-to-end analysis of 10,000+ sales records across Shopee, Lazada, and TikTok Shop (2024).
 
