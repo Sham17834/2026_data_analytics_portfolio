@@ -15,7 +15,7 @@ I am a data-driven problem solver passionate about transforming raw datasets int
 
 ## Featured Projects
 
-### 1. [Foodpanda Operations &amp; Sales Analysis](https://www.google.com/search?q=link-to-your-folder)
+### 1. Foodpanda Food Analytics
 
 **Goal:** Analyze 6,000+ transactions to optimize delivery logistics and user retention in Pakistan.
 
@@ -23,7 +23,7 @@ I am a data-driven problem solver passionate about transforming raw datasets int
 * **Impact:** Recommended logistics restructuring in Multan (highest revenue city) and identified teenagers as the primary spending demographic ($1.65M).
 * **Tools:** Python, Pandas, Matplotlib.
 
-### 2. [Malaysia E-commerce Market Insights](https://www.google.com/search?q=link-to-your-folder)
+### 2. [E](https://www.google.com/search?q=link-to-your-folder)-commerce Sales Analytics
 
 **Goal:** End-to-end analysis of 10,000+ sales records across Shopee, Lazada, and TikTok Shop (2024).
 
@@ -47,4 +47,4 @@ I believe data is only as good as the story it tells. My approach follows a stri
 ## 📫 Let's Connect!
 
 * **LinkedIn:** [https://www.linkedin.com/in/shamsoonyong]
-* **Email:** [soonyongsham@gmail.com]
+* **Email:** [Your Email Address]
