@@ -1,75 +1,50 @@
-# Data Analytics Portfolio – Business Insights & Revenue Optimization
+# Data Analytics Portfolio
 
-Welcome to my data analytics portfolio. This repository showcases end-to-end analytical projects focused on **customer behavior, revenue optimization, and business decision-making**, using real-world datasets from the **aviation** and **e-commerce** industries.
-
-Each project demonstrates my ability to:
-- Clean and validate raw data
-- Apply business logic and metrics
-- Perform exploratory and diagnostic analysis
-- Translate insights into **actionable business recommendations**
-- Communicate findings through dashboards and structured analysis
+I am a data-driven problem solver passionate about transforming raw datasets into actionable business insights. My background includes analyzing large-scale datasets in the **Food Delivery** and **E-commerce** sectors, focusing on operational efficiency and market trends.
 
 ---
 
-## Projects Overview
+## Technical Toolkit
 
-### AirAsia Booking & Ancillary Sales Analysis
-
-**Objective:**  
-Analyze 50,000 flight booking records to understand customer behavior toward **ancillary services** (Baggage, Meals, Seat Selection) and **Travel Insurance**, with the goal of increasing **revenue per passenger**.
-
-**Key Business Questions:**
-- Which booking channel (Internet vs Mobile) converts better for insurance?
-- Does purchasing baggage increase the likelihood of insurance uptake?
-- How does flight duration impact ancillary purchase behavior?
-- Does booking time influence service selection?
-
-**Dataset:**
-- 50,000 unique AirAsia booking records
-
-**Tools & Stack:**
-- Excel (Data Cleaning & Pivot Tables)
-- Tableau (Dashboard Visualization)
-
-**Key Metrics:**
-- Insurance Conversion Rate (ICR)
-- Ancillary Purchase Rate
-- Meal Upsell Rate
-
-**Key Insights:**
-- **Internet bookings** show a higher insurance conversion rate (15.48%) compared to **Mobile** (10.84%).
-- Passengers who purchase **baggage** are significantly more likely to buy **travel insurance**.
-- Certain **longer flight durations** (>5 hours) show stronger insurance uptake.
-- Booking time influences the type of ancillaries selected.
-
-**Business Recommendations:**
-- Optimize Mobile UI/UX for ancillary add-ons.
-- Bundle **Baggage + Insurance** for long-haul routes.
-- Target long lead-time customers with early-bird meal promotions.
-
-**Files:**
-- `AirAsia Booking Raw Data.csv`
-- `Pivot_table.csv`
-- `Airasia Dashboard.png`
+* **Languages:** Python (Pandas), SQL (PostgreSQL, MySQL)
+* **Data Visualization:** Power BI (DAX), Tableau, Excel (Pivot Tables)
+* **Data Engineering:** Data Cleaning, ETL Pipelines, Feature Engineering
+* **Soft Skills:** Stakeholder Communication, Business Strategy, Trend Forecasting
 
 ---
 
-### E-commerce Sales Analysis & Insights (Malaysia Market – 2024)
+## Featured Projects
 
-**Objective:**  
-Transform raw transactional data into actionable insights to understand **sales performance, customer behavior, and platform dynamics** in the Malaysian e-commerce market.
+### 1. [Foodpanda Operations &amp; Sales Analysis](https://www.google.com/search?q=link-to-your-folder)
 
-**Dataset:**
-- 10,000+ e-commerce transactions (Malaysia, 2024)
+**Goal:** Analyze 6,000+ transactions to optimize delivery logistics and user retention in Pakistan.
 
-**Tools & Stack:**
-- SQL (PostgreSQL) – Data Cleaning & EDA
-- Power BI – Interactive Dashboard (DAX)
-- Excel, VS Code
+* **Key Insight:** Discovered that **66% of orders** were delayed or cancelled, leading to a direct drop in customer ratings to 2.97.
+* **Impact:** Recommended logistics restructuring in Multan (highest revenue city) and identified teenagers as the primary spending demographic ($1.65M).
+* **Tools:** Python, Pandas, Matplotlib.
 
-**Data Processing & Cleaning:**
-- Removed duplicate Order IDs
-- Handled missing values and whitespace inconsistencies
-- Filtered invalid transactions (negative price/quantity)
-- Recalculated revenue fields for consistency
-- Restricted analysis to FY2024
+### 2. [Malaysia E-commerce Market Insights](https://www.google.com/search?q=link-to-your-folder)
+
+**Goal:** End-to-end analysis of 10,000+ sales records across Shopee, Lazada, and TikTok Shop (2024).
+
+* **Key Insight:** Revenue peaked in May, July, and September, totaling  **RM 302 Million** .
+* **Technical Highlight:** Cleaned messy string data and handled nulls using SQL; built a dynamic Power BI dashboard using DAX for real-time KPI tracking.
+* **Impact:** Identified Petaling Jaya as a high-growth region for electronics inventory.
+* **Tools:** SQL (PostgreSQL), Power BI, Excel.
+
+---
+
+## My Data Philosophy
+
+I believe data is only as good as the story it tells. My approach follows a strict pipeline:
+
+1. **Sourcing & Integrity:** Ensuring a "Single Version of Truth" through rigorous SQL cleaning.
+2. **Exploration:** Using EDA to find the "Why" behind the "What."
+3. **Visualization:** Creating intuitive dashboards that non-technical stakeholders can use to make decisions.
+
+---
+
+## 📫 Let's Connect!
+
+* **LinkedIn:** [https://www.linkedin.com/in/shamsoonyong]
+* **Email:** [soonyongsham@gmail.com]

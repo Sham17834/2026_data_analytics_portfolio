@@ -1,74 +1,75 @@
-# E-commerce Sales Analysis & Insights (Malaysia Market)
+# Data Analytics & Business Intelligence Portfolio
 
-## Project Overview
+Welcome to my GitHub portfolio!
 
-This project analyzes **10,000+ e-commerce transactions** in the Malaysian market for the year 2024. The goal was to transform raw, unoptimized data into actionable business intelligence. I handled the end-to-end pipeline: from **SQL-based data cleaning** to building an **interactive Power BI dashboard** that tracks KPIs across platforms like Shopee, Lazada, and TikTok Shop.
-
----
-
-## Tech Stack
-
-* **Database:** SQL (PostgreSQL) for EDA and Data Cleaning
-* **Visualization:** Power BI (DAX, Interactive Filtering)
-* **Tools:** VS Code, Excel
-* **Dataset:** 10,000 Sales Records (Malaysia-specific cities and platforms)
+This repository contains real-world data analytics projects where I apply **SQL, Python, Excel, and Power BI** to transform raw data into actionable business insights. Each project demonstrates end-to-end analytical workflows including data cleaning, exploratory data analysis (EDA), visualization, and business-driven recommendations.
 
 ---
 
-## Data Pipeline & SQL Cleaning
 
-Before visualization, I performed rigorous data cleaning to ensure "Single Version of Truth".
+## Technical Skills
 
-### 1. Data Integrity & Quality Control
-
-* **Duplicate Removal:** Verified `OrderID` uniqueness to prevent revenue inflation.
-* **Null Handling:** Screened for missing values in `Product`, `Price`, and `Date`.
-* **Whitespace Scrubbing:** Used `TRIM()` on product names to ensure accurate grouping.
-
-### 2. Business Logic Implementation
-
-* **Anomaly Detection:** Filtered out negative quantities and prices that would skew profit margins.
-* **Feature Engineering:** Recalculated `TotalAmount` (**$Price \times Quantity$**) to ensure data consistency.
-* **Date Filtering:** Restricted the dataset scope to the 2024 fiscal year.
-
-> **Key SQL Snippet: Top 10 Products by Revenue**
-
-**SQL**
-
-```
-SELECT 
-    product, 
-    SUM(quantity) AS total_units_sold, 
-    SUM(totalamount) AS total_sales
-FROM ecommerce_sales
-GROUP BY product
-ORDER BY total_sales DESC
-LIMIT 10;
-```
+* **Languages:** SQL, Python
+* **Libraries:** Pandas, Matplotlib
+* **Visualization:** Power BI, Excel
+* **Databases:** PostgreSQL
+* **Other Tools:** VS Code, GitHub
 
 ---
 
-## Power BI Dashboard Insights
+## Projects
 
-The final dashboard provides a 360-degree view of the Malaysian e-commerce landscape.
+### Foodpanda Operations & Sales Analysis
 
-### Key Performance Indicators (KPIs)
+**Objective:** Analyze customer behavior, restaurant performance, and delivery efficiency using 6,000 transactions.
 
-* **Total Revenue:** RM 302 Million.
-* **Average Order Value (AOV):** RM 30.20K.
-* **Top Performing Product:** *Xiaomi Redmi Note 12* (~RM 34M revenue).
+**Key Highlights**
 
-### Market Observations
+* Subway identified as top revenue-generating restaurant
+* Multan highest-grossing city
+* 66% of orders were delayed or cancelled
+* Teenagers represent the highest-spending age group
 
-* **Seasonal Trends:** Sales peaked in  **May, July, and September** , indicating high consumer activity during mid-year sales cycles.
-* **Category Dominance:** **Electronics** and **Fashion** lead the market share.
-* **Geographic Spread:** Strong sales performance identified in  **Kuala Terengganu, Petaling Jaya, and Kota Bharu** .
-* **Platform Analysis:** Sales are evenly distributed across  **Shopee, Lazada, and TikTok Shop** , suggesting a highly fragmented and competitive platform landscape in Malaysia.
+**Tools Used:** Excel, Python (Pandas, Matplotlib)
 
 ---
 
-## Strategic Recommendations
+### E-commerce Sales Analysis (Malaysia Market)
 
-1. **Platform Diversification:** Businesses should maintain a multi-channel presence (Shopee + TikTok Shop) as no single platform dominates 2024 sales.
-2. **Inventory Planning:** Prioritize stock for high-velocity electronics (Xiaomi, Samsung) leading into the Q2 and Q3 peak periods.
-3. **Regional Marketing:** Allocate ad-spend toward high-performing cities like Petaling Jaya where purchasing power is concentrated.
+**Objective:** Build an end-to-end data pipeline and interactive Power BI dashboard using 10,000+ transactions from Shopee, Lazada, and TikTok Shop.
+
+**Key Highlights**
+
+* Total Revenue: RM 302M
+* Top Product: Xiaomi Redmi Note 12
+* Electronics & Fashion dominate sales
+* Strong performance in Petaling Jaya, Kuala Terengganu, Kota Bharu
+
+**Tools Used:** SQL (PostgreSQL), Power BI, Excel, VS Code
+
+---
+
+## Project Workflow
+
+1. Data Collection
+2. Data Cleaning & Validation
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Visualization & Dashboarding
+6. Insight Generation & Recommendations
+
+---
+
+## Example SQL Query
+
+<pre class="overflow-visible! px-0!" data-start="2458" data-end="2638"><div class="contain-inline-size rounded-2xl corner-superellipse/1.1 relative bg-token-sidebar-surface-primary"><div class="sticky top-[calc(var(--sticky-padding-top)+9*var(--spacing))]"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-sql"><span><span>SELECT</span><span> 
+    product,
+    </span><span>SUM</span><span>(quantity) </span><span>AS</span><span> total_units_sold,
+    </span><span>SUM</span><span>(totalamount) </span><span>AS</span><span> total_sales
+</span><span>FROM</span><span> ecommerce_sales
+</span><span>GROUP</span><span></span><span>BY</span><span> product
+</span><span>ORDER</span><span></span><span>BY</span><span> total_sales </span><span>DESC</span><span>
+LIMIT </span><span>10</span><span>;
+</span></span></code></div></div></pre>
+
+---
