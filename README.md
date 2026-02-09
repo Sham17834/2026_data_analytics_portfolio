@@ -1,56 +1,72 @@
-# Data Anlytics Portfolio 👋
+# 📊 Data Analytics Portfolio 👋
 
-### Aspiring Data Analyst | SQL, Ecel, Python & Power BI/Tableau Specialist
+### Aspiring Data Analyst | SQL, Excel, Python & Power BI/Tableau Specialist  
 
-I am a results-oriented data enthusiast with a knack for turning complex datasets into clear, actionable business strategies. My portfolio showcases my ability to handle the full data lifecycle from **raw data extraction and SQL cleaning** to  **advanced visualization and stakeholder-ready reporting** . I specialize in identifying operational bottlenecks and uncovering high-value market trends in the **Food Logistics** and **E-commerce** sectors.
+I am a results-oriented data enthusiast with a passion for transforming complex datasets into clear, actionable business insights. My portfolio demonstrates hands-on experience across the full data lifecycle — from **raw data extraction and SQL cleaning** to **advanced visualization and stakeholder-ready reporting**.
+
+I specialize in identifying operational bottlenecks and uncovering high-value market trends in the **Food Logistics** and **E-commerce** sectors.
 
 ---
 
 ## 🛠 Technical Toolkit
 
-* **Data Analysis & Manipulation:** Python (Pandas)
-* **Database Management:** SQL (PostgreSQL, MySQL)
-* **Business Intelligence:** Power BI (Complex DAX, Interactive Dashboarding, ETL), Tableau, Excel (Pivot Tables, VLOOKUP)
-* **Analytical Techniques:** Exploratory Data Analysis (EDA), Descriptive Statistics, Customer Segmentation (RFM), Trend Forecasting
-* **Soft Skills:** Data Storytelling, Cross-functional Communication, Business Strategy Development
+- **Data Analysis & Manipulation:** Python (Pandas)  
+- **Database Management:** SQL (PostgreSQL, MySQL)  
+- **Business Intelligence:** Power BI (DAX, Interactive Dashboards, ETL), Tableau, Excel (Pivot Tables, VLOOKUP)  
+- **Analytical Techniques:** Exploratory Data Analysis (EDA), Descriptive Statistics, Customer Segmentation (RFM), Trend Analysis  
+- **Soft Skills:** Data Storytelling, Cross-functional Communication, Business-Oriented Thinking  
 
 ---
 
 ## 📊 Featured Projects
 
-### 1. Foodpanda Operations & Sales Analysis
+---
 
-**Project Goal:** To evaluate 6,000 transaction records to pinpoint the causes of delivery friction and optimize user retention strategies across major cities in Pakistan.
+### 📌 Foodpanda Operations & Sales Analysis  
+*Tools: SQL, Python (Pandas), Power BI*
+
+**Project Goal:**  
+Analyze 6,000 transaction records to identify causes of delivery friction and improve customer retention across major cities in Pakistan.
 
 <img src="Foodpanda Operations & Sales Analysis/Foodpanda Dashboard.png" width="800" alt="Foodpanda Dashboard Preview">
 
 **Key Deliverables & Insights:**
 
-* **Operational Audit:** Identified a critical failure point where **66% of all orders** were either delayed or cancelled. This correlated directly with a low  **Average Rating of 3.00** , indicating a significant threat to brand loyalty.
-* **Market Segmentation:** Analyzed demographic data to find that **Teenagers** are the most lucrative segment, contributing **RM 1.65M** in total spend. This suggests that marketing efforts should pivot toward fast-food promotions tailored to younger audiences.
-* **Geographic Performance:** Discovered that **Multan** outperformed capital cities in revenue ($1,009,003), highlighting a need for localized logistics expansion in that region.
-* **Financial Health:** Monitored a **Total Revenue of RM 4,803,149** with an  **Average Order Value (AOV) of RM 800.52** .
+- Cleaned and transformed raw order data using SQL and Python to ensure accuracy and consistency.  
+- Identified a major operational issue where **66% of orders were delayed or cancelled**, strongly correlated with a low **average rating of 3.00**.  
+- Performed customer segmentation and found **Teenagers as the highest-spending segment (RM 1.65M)**.  
+- Discovered **Multan as the top-performing city (RM 1.0M+ revenue)**, outperforming capital cities.  
+- Monitored overall performance with **Total Revenue of RM 4.8M** and **Average Order Value (AOV) of RM 800**.  
+- Built an interactive Power BI dashboard with KPIs, filters, and city-level drilldowns.
 
 ---
 
-### 2. Malaysia E-commerce Sales Analytics
+### 📌 Malaysia E-commerce Sales Analytics  
+*Tools: SQL, Power BI*
 
-**Project Goal:** An end-to-end business intelligence solution analyzing 10,000+ sales records to decode consumer behavior across Malaysia's leading e-commerce platforms (Shopee, Lazada, and TikTok Shop) for 2024.
+**Project Goal:**  
+Develop an end-to-end BI solution analyzing 10,000+ sales records from Shopee, Lazada, and TikTok Shop to understand Malaysian consumer behavior in 2024.
 
-<img src="E-commerce%20Sales%20Analytics/E-commerce%20Dashboard.png" width="800" alt="E-commerce Dashboard Preview">
+<img src="Malaysia E-commerce Sales Analytics/E-commerce Dashboard.png" width="800" alt="E-commerce Dashboard Preview">
 
 **Key Deliverables & Insights:**
 
-* **Revenue Optimization:** Tracked a massive  **Total Profit of RM 302 Million** . By mapping the  **Sum of TotalAmount by Month** , I identified significant sales surges in **May (26.3M)** and  **July (26.8M)** , aligning with mid-year shopping festivals.
-* **Inventory Intelligence:** Leveraged data to identify the **Xiaomi Redmi Note 12** as the market leader with **RM 33.7M** in sales, providing a clear signal for inventory prioritization.
-* **Multi-Channel Strategy:** The dashboard reveals a highly fragmented landscape where sales are evenly distributed across  **Lazada, Shopee, and TikTok Shop** , proving that a multi-platform presence is vital for market dominance in Malaysia.
-* **Technical Integrity:** Implemented a **SQL-based cleaning pipeline** to handle null values, remove duplicates, and perform whitespace scrubbing to ensure a "Single Version of Truth" before visualization.
+- Designed a **SQL-based data cleaning pipeline** (null handling, duplicate removal, TRIM, validation checks).  
+- Conducted SQL EDA to uncover revenue drivers, top products, and seasonal trends.  
+- Identified peak sales months: **May (RM 26.3M)** and **July (RM 26.8M)**.  
+- Found **Xiaomi Redmi Note 12** as the best-selling product (**RM 33.7M revenue**).  
+- Revealed that sales are evenly distributed across **Shopee, Lazada, and TikTok Shop**, supporting a multi-platform strategy.  
+- Built a Power BI dashboard featuring **Total Profit (RM 302M)**, platform share, and monthly trends.
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-I am actively seeking **Data Analyst Internship** opportunities where I can apply my analytical skills to solve real-world business problems.
+I am actively seeking **Data Analyst Internship** opportunities where I can contribute to real-world, data-driven decision-making.
 
-* **LinkedIn:** [linkedin.com/in/shamsoonyong](https://www.linkedin.com/in/shamsoonyong)
-* **Email:** [soonyongsham@gmail.com](mailto:soonyongsham@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/shamsoonyong  
+- **Email:** soonyongsham@gmail.com  
+
+---
+
+⭐ If you find this portfolio helpful, feel free to star the repository!
