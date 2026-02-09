@@ -22,7 +22,7 @@ I am a results-oriented data enthusiast with a knack for turning complex dataset
 
 **Project Goal:** To evaluate 6,000 transaction records to pinpoint the causes of delivery friction and optimize user retention strategies across major cities in Pakistan.
 
-<img src="Foodpanda%20Food%20Analytics/Foodpanda%20Dashboard.png" width="800" alt="Foodpanda Dashboard Preview">
+<img src="Foodpanda Operations & Sales Analysis/Foodpanda Dashboard.png" width="800" alt="Foodpanda Dashboard Preview">
 
 **Key Deliverables & Insights:**
 
