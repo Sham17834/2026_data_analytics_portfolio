@@ -34,17 +34,8 @@ I am a data-driven problem solver passionate about transforming raw datasets int
 
 ---
 
-## My Data Philosophy
-
-I believe data is only as good as the story it tells. My approach follows a strict pipeline:
-
-1. **Sourcing & Integrity:** Ensuring a "Single Version of Truth" through rigorous SQL cleaning.
-2. **Exploration:** Using EDA to find the "Why" behind the "What."
-3. **Visualization:** Creating intuitive dashboards that non-technical stakeholders can use to make decisions.
-
----
 
 ## 📫 Let's Connect!
 
 * **LinkedIn:** [https://www.linkedin.com/in/shamsoonyong]
-* **Email:** [Your Email Address]
+* **Email:** [soonyongsham@gmail.com]
