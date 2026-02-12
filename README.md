@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio 👋
+# Data Analytics Portfolio 
 
 ### Aspiring Data Analyst | SQL, Excel, Python & Power BI/Tableau Specialist  
 
@@ -8,7 +8,7 @@ I specialize in identifying operational bottlenecks and uncovering high-value ma
 
 ---
 
-## 🛠 Technical Toolkit
+## Technical Toolkit
 
 - **Data Analysis & Manipulation:** Python (Pandas)  
 - **Database Management:** SQL (PostgreSQL, MySQL)  
@@ -18,11 +18,11 @@ I specialize in identifying operational bottlenecks and uncovering high-value ma
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ---
 
-### 📌 Foodpanda Operations & Sales Analysis  
+### Foodpanda Operations & Sales Analysis  
 *Tools: Excel, Tableau*
 
 **Project Goal:**  
@@ -41,7 +41,7 @@ Analyze 6,000 transaction records to identify causes of delivery friction and im
 
 ---
 
-### 📌 Malaysia E-commerce Sales Analytics  
+### Malaysia E-commerce Sales Analytics  
 *Tools: SQL, Power BI*
 
 **Project Goal:**  
@@ -60,7 +60,7 @@ Develop an end-to-end BI solution analyzing 10,000+ sales records from Shopee, L
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I am actively seeking **Data Analyst Internship** opportunities where I can contribute to real-world, data-driven decision-making.
 
@@ -69,4 +69,4 @@ I am actively seeking **Data Analyst Internship** opportunities where I can cont
 
 ---
 
-⭐ If you find this portfolio helpful, feel free to star the repository!
+If you find this portfolio helpful, feel free to star the repository!
