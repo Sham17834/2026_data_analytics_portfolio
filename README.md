@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio 👋
+# Data Analytics Portfolio 
 
 ### Aspiring Data Analyst | SQL, Excel, Python & Power BI/Tableau Specialist
 
@@ -8,7 +8,7 @@ I specialize in identifying operational bottlenecks and uncovering high-value ma
 
 ---
 
-## 🛠 Technical Toolkit
+## Technical Toolkit
 
 - **Data Analysis & Manipulation:** Python (Pandas)
 - **Database Management:** SQL (PostgreSQL, MySQL)
