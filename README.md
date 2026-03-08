@@ -29,7 +29,9 @@ I specialize in identifying operational bottlenecks and uncovering high-value ma
 **Project Goal:**
 Analyze 6,000 transaction records to identify causes of delivery friction and improve customer retention across major cities in Pakistan.
 
-`<img src="Foodpanda Operations & Sales Analysis/Foodpanda Dashboard.png" width="800" alt="Foodpanda Dashboard Preview">`
+<p align="center">
+  <img src="Foodpanda%20Operations%20%26%20Sales%20Analysis/Foodpanda%20Dashboard.png" width="800" alt="Foodpanda Dashboard Preview">
+</p>
 
 **Key Deliverables & Insights:**
 
@@ -49,7 +51,9 @@ Analyze 6,000 transaction records to identify causes of delivery friction and im
 **Project Goal:**
 Develop an end-to-end BI solution analyzing 10,000+ sales records from Shopee, Lazada, and TikTok Shop to understand Malaysian consumer behavior in 2024.
 
-`<img src="Malaysia E-commerce Sales Analytics/E-commerce Dashboard.png" width="800" alt="E-commerce Dashboard Preview">`
+<p align="center">
+  <img src="Malaysia%20E-commerce%20Sales%20Analytics/E-commerce%20Dashboard.png" width="800" alt="E-commerce Dashboard Preview">
+</p>
 
 **Key Deliverables & Insights:**
 
